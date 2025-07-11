@@ -1,5 +1,5 @@
 body{
-    background-color:black;
+    background-color:white;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -7,17 +7,17 @@ body{
     
 }
 .page1{
-    font-family: Arial, Helvetica, sans-serif;
     background:aqua;
-    padding: 30px;
+    padding: 50px;
      border-right: 5px solid gray;
     border-bottom: 5px solid gray;
     border-top: 5px solid gray;
     border-left: 5px solid gray;
     border-radius: 8px;
-    height: 500px;
+    height: 370px;
     width: 90%;
     max-width: 300px;
+    margin-top: 60px;
 }
 h2{
     text-align: center;
