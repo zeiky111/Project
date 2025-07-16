@@ -9,11 +9,8 @@ body{
 .page1{
     background:aqua;
     padding: 50px;
-     border-right: 5px solid gray;
-    border-bottom: 5px solid gray;
-    border-top: 5px solid gray;
-    border-left: 5px solid gray;
-    border-radius: 8px;
+   border: 2px solid black;
+   box-shadow: 10px 10px 10px 10px rgba(0,0,0,20);
     height: 370px;
     width: 90%;
     max-width: 300px;
