@@ -52,7 +52,31 @@ p{
     
 }
 .a{
-    
+
     color: aquamarine;
-    
 }
+@media (max-width: 480px) {
+    .page1 {
+        width: 90%; 
+        padding: 30px;
+        height: auto; 
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+
+    input, button {
+        font-size: 1rem;
+        padding: 8px;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    p {
+        font-size: 0.9rem;
+    }
+}
+
